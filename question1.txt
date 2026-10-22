@@ -1,3 +1,7 @@
 If apples are red or green then what are grapes?
 
+<<<<<<< HEAD
 How about mangoes?
+=======
+Where do pigs fly?
+>>>>>>> question3.txt

@@ -2,3 +2,5 @@
 prac1
 
 question 1
+question2
+question 3

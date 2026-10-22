@@ -1,1 +1,3 @@
 If apples are red or green then what are grapes?
+
+How about mangoes?
